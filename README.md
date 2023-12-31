@@ -1,4 +1,5 @@
 # Augmented Reality Snake Game 🐍✨
+![Screenshot from 2023-12-31 23-36-39](https://github.com/ahbarabdellah/VR-snake-game/assets/71067263/a2ac8a9e-f9e5-47d2-b94e-a4149759b3ef)
 
 ## Introduction 🌟
 Welcome to the world of Augmented Reality (AR) 🕶️ where you control a virtual snake 🐍 with the movement of your hand! Using your webcam 📹, this Python-based AR Snake game transforms your physical space into an interactive gaming zone 🎮. Catch rewards 🍏 and grow your snake, all controlled by your hand's motion 👋!
